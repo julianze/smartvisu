@@ -5,7 +5,7 @@
 ## DESCRIPTION
 smartVISU is a framework to create a visualisation for a knx-installation with simple html-pages.  
 To read and write group-telegrams special tags are used.  
-You don't need to know javascript.  
+You don't need to know   javascript.  
   
 SEE: [smartvisu.de](http://www.smartvisu.de)
 
