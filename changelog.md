@@ -1,4 +1,4 @@
-## 3.1
+## 3.1d
 ### New / Changed Widgets
 - new weather service API met.no for deprecated yr.no
 - new widget status.activelist to display json messages as active listview
