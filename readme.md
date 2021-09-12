@@ -47,7 +47,7 @@ For your own Project do the following:
      The widget constructor in the system menu will help you to parametrize the widgets correctly.
   6. If you need to change the design, select a design in the user interface section.  
      If you want to develop your own widgets, place them in ./pages/YOURPROJECT/widgets or ./dropins.   
-     Provide a mywidget.html and a mywidget.js (if you need one). You'll need to import the html
+     Provide a mywidget.html and a mywidget.js (if you ja need one). You'll need to import the html
      file in your pages while javascript will be included automatically.   
      Avoid names which are already used in the "smartvisu/widgets" directory or other sytem file names.
   7. Test your page with: http://localhost/smartVISU/index.php?page=mypage  
