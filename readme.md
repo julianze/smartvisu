@@ -19,7 +19,7 @@ SEE: [smartvisu.de](htt  p://www.smartvisu.de)
   * Easy: Implementation with HTML5
   * Simple: Connect to KNX with commands directly in HTML
   * Universal: Small concept of widgets
-  * Connectable: Using drivers for different KNX installations 
+  * Connectable: Using drivers for different KNX installations  vb
 
 
 ## SYSTEM REQUIREMENTS
