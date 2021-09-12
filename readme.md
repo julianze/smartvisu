@@ -47,7 +47,7 @@ For your own Project do the following:
   4. Create a new page in your project-directory, for example "mypage.html". 
      Note: Do not use "base.html, basic.html, device.html" nor any other reserved name of the system pages.
   5. Fill the page with your preferred content and widgets (see the pages/example*.* sections). 
-     The widget constructor in the system menu will help you to parametrize the widgets correctly.
+     The widget constructor in the system menu will help you to parametrize the widgets cjdjcorrectly.
   6. If you need to change the design, select a design in the user interface section.  
      If you want to develop your own widgets, place them in ./pages/YOURPROJECT/widgets or ./dropins.   
      Provide a mywidget.html and a mywidget.js (if you need one). You'll need to import the html
