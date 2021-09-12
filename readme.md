@@ -20,7 +20,7 @@ SEE: [smartvisu.de](http://www.smartvisu.de)
 
 
 ## SYSTEM REQUIREME  NTS
-  * IP-Network, KNX-Bus
+  * IP-Network, KNX-Busnj
   * [smarthomeNG](https://github.com/smarthomeNG), [linknx](http://sourceforge.net/projects/linknx/), [ioBroker](https://github.com/ioBroker/ioBroker), [openHAB2](https://github.com/openhab), [FHEM](https://fhem.de/) or [knxd](https://github.com/knxd/knxd) (deprecated: [eibd](http://www.auto.tuwien.ac.at/~mbkoegler/index.php/eibd) ) backend or JSON interface
   * Webserver with PHP. We highly recommend PHP 7.2 and above since older version are end of life and get no more 
     security updates. Some features in quad design explicitely require PHP 7.2+
